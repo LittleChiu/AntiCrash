@@ -1,0 +1,16 @@
+[
+{
+  "modid": "AntiCrash",
+  "name": "AntiCrash",
+  "description": "a AntiCrash based on mixin.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Yeoc"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

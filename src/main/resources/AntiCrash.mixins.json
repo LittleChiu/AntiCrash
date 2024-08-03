@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "refmap": "AntiCrash.mixins.refmap.json",
+  "package": "me.yeoc.anticrash.injection.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinChatMessage",
+    "MixinClientConnection"
+  ]
+}
